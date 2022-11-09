@@ -1,0 +1,364 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"textureRenderer"
+			],
+			[
+				"colo",
+				"colourMap"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"Li",
+				"Library"
+			],
+			[
+				"Scr",
+				"Scripts"
+			],
+			[
+				"Asse",
+				"Assets"
+			],
+			[
+				"sa",
+				"sampleY"
+			],
+			[
+				"sampl",
+				"sampleX"
+			],
+			[
+				"M",
+				"MIN_SCALE_VALUE"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+					""
+				],
+				[
+					"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Basic Builder - PdfLaTeX"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"late",
+				"LaTeXTools: View TeX package documentation"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"prefe",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/davidegattini/UnityProj/LandscapeTutorial/Assets/Scripts"
+	],
+	"file_history":
+	[
+		"/Users/davidegattini/UnityProj/LandscapeTutorial/Assets/Scripts/MapDisplay.cs",
+		"/Users/davidegattini/UnityProj/LandscapeTutorial/Assets/Scripts/LandscapeTutorial.sublime-project",
+		"/Users/davidegattini/UnityProj/LandscapeTutorial/Assets/Scripts/MapGenerator.cs",
+		"/Users/davidegattini/UnityProj/LandscapeTutorial/LandscapeTutorial.sublime-project",
+		"/Users/davidegattini/Desktop/179.json",
+		"/Users/davidegattini/Desktop/tables_trunc.json",
+		"/Users/davidegattini/SourceTreeProj/IDD/index_test/_4.scf",
+		"/Users/davidegattini/SourceTreeProj/IDD/index_test/_1.scf",
+		"/Users/davidegattini/SourceTreeProj/IDD/index_test/_0.scf",
+		"/Users/davidegattini/SourceTreeProj/IDD/index/_b.scf",
+		"/Users/davidegattini/SourceTreeProj/IDD/index/_a.scf",
+		"/Users/davidegattini/SourceTreeProj/DataEngineering/Homework2/LyriRet/target/idx0/_1y.scf",
+		"/Users/davidegattini/SourceTreeProj/IDD/index/_9.scf",
+		"/Users/davidegattini/SourceTreeProj/IDD/index/_7.scf",
+		"/Users/davidegattini/SourceTreeProj/IDD/index/_8.scf",
+		"/Users/davidegattini/SourceTreeProj/IDD/index/_6.scf",
+		"/Users/davidegattini/SourceTreeProj/IDD/index/_4.scf",
+		"/Users/davidegattini/SourceTreeProj/IDD/index/_3.scf",
+		"/Users/davidegattini/SourceTreeProj/IDD/index/_0.scf",
+		"/Users/davidegattini/SourceTreeProj/DataEngineering/Homework2/LyriRet.tex",
+		"/Users/davidegattini/.zshrc",
+		"/Users/davidegattini/.zprofile",
+		"/Users/davidegattini/SourceTreeProj/MDLProj/Final.ipynb",
+		"/Users/davidegattini/SourceTreeProj/DataEngineering/latex/Hw1.tex",
+		"/Users/davidegattini/SourceTreeProj/DataEngineering/Homework2/README.md",
+		"/Users/davidegattini/SourceTreeProj/DataEngineering/Homework2/LyriRet/README.md",
+		"/Users/davidegattini/SourceTreeProj/DataEngineering/Homework2/LyriRet.pdf",
+		"/Users/davidegattini/SourceTreeProj/DataEngineering/Homework2/pyGetLyrics/main.ipynb",
+		"/Users/davidegattini/SourceTreeProj/DataEngineering/latex/Hw1.log",
+		"/Users/davidegattini/SourceTreeProj/DataEngineering/Hw1.tex",
+		"/Users/davidegattini/SourceTreeProj/DataEngineering/Hw1.log",
+		"/Users/davidegattini/SourceTreeProj/DataEngineering/Hw1.md",
+		"/Users/davidegattini/SourceTreeProj/DataEngineering/Hw1.tex.md",
+		"/Users/davidegattini/DataEngineering/Hw1.md",
+		"/Users/davidegattini/Documents/ProgettiBD2/Progetto2/A/README.md",
+		"/Users/davidegattini/Documents/ProgettiBD2/Progetto2/A/SetIntRecord.java",
+		"/Users/davidegattini/Documents/ProgettiBD2/Progetto2/A/RecoveryMgr.java",
+		"/Users/davidegattini/Documents/ProgettiBD2/Progetto2/A/LogIteratorBackward.java",
+		"/Users/davidegattini/Documents/ProgettiBD2/Progetto2/A/LogIterator.java",
+		"/Users/davidegattini/Documents/ProgettiBD2/Progetto2/A/LogMgr.java",
+		"/Users/davidegattini/Documents/Università/Homework1.Test",
+		"/Users/davidegattini/Documents/NFT1",
+		"/Users/davidegattini/IA/GeneticAlgorithm-8Queen-master/README.md",
+		"/Users/davidegattini/animation/tesi/manipolazione-mesh.tex",
+		"/Users/davidegattini/Documents/butta/butta"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"y"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 121.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 268.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "LandscapeTutorial.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
